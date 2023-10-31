@@ -11,6 +11,7 @@ namespace ruaplv1
         static void Main(string[] args)
         {
             Console.WriteLine("Pozdrav od Elene Lucic");
+            Console.WriteLine("Broj indeksa je 1233123");
 
         }
     }
